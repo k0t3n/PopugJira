@@ -1,6 +1,6 @@
 # PopugJira 🦜
 
-This repo contains PopugJira task tracker implementation made as a part of [Aync Architecture](https://tough-dev.school/architecture) homework.
+This repo contains PopugJira task tracker implementation made as a part of [Async Architecture](https://tough-dev.school/architecture) homework.
 
 
 ## Design
